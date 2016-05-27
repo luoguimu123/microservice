@@ -1,0 +1,1 @@
+java -jar /Users/lgm/Desktop/zkboot-1.0.0-SNAPSHOT.jar 9000

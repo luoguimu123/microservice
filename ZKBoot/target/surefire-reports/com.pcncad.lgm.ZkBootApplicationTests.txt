@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pcncad.lgm.ZkBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.843 sec - in com.pcncad.lgm.ZkBootApplicationTests
